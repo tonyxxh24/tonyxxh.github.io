@@ -1,6 +1,6 @@
 baseURL = 'https://tonyxxh24.github.io'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Tony Personal Blog'
 
 [markup]
   # (Optional) To be able to use all Prism plugins, the theme enables unsafe
